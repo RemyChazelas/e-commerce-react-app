@@ -68,6 +68,7 @@ export default function NewProduct() {
     );
   };
 
+
   return (
     <div className="newProduct">
       <h1 className="addProductTitle">New Product</h1>
